@@ -1,0 +1,16 @@
+[adaptive s1] step 5000 val_len 176 val_theta 0.0586 eps 0.80
+[adaptive s1] step 10000 val_len 238 val_theta 0.0676 eps 0.59
+[adaptive s1] step 15000 val_len 149 val_theta 0.1141 eps 0.39
+[adaptive s1] step 20000 val_len 174 val_theta 0.1162 eps 0.18
+[adaptive s1] step 25000 val_len 187 val_theta 0.0827 eps 0.02
+[adaptive s1] step 30000 val_len 236 val_theta 0.0882 eps 0.02
+[adaptive s1] step 35000 val_len 227 val_theta 0.0839 eps 0.02
+[adaptive s1] step 40000 val_len 111 val_theta 0.1260 eps 0.02
+[adaptive s1] step 45000 val_len 121 val_theta 0.1092 eps 0.02
+[adaptive s1] step 50000 val_len 359 val_theta 0.0742 eps 0.02
+[adaptive s1] step 55000 val_len 378 val_theta 0.0726 eps 0.02
+[adaptive s1] step 60000 val_len 500 val_theta 0.0448 eps 0.02
+[adaptive s1] step 65000 val_len 500 val_theta 0.0452 eps 0.02
+[adaptive s1] step 70000 val_len 200 val_theta 0.0746 eps 0.02
+[adaptive s1] step 75000 val_len 272 val_theta 0.0638 eps 0.02
+[adaptive s1] step 80000 val_len 107 val_theta 0.1154 eps 0.02

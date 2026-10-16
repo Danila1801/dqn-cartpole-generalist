@@ -1,0 +1,5 @@
+﻿latex_template/
+overleaf/
+*.zip
+__pycache__/
+logs/*.err

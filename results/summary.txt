@@ -1,0 +1,38 @@
+run, overall_avg
+adaptive_s0, 3170.1
+adaptive_s1, 3222.1
+adaptive_s2, 346.6
+random_init_s0, 19.6
+shaped_s0, 10007.5
+shaped_s1, 5457.4
+shaped_s2, 14728.6
+uniform_s0, 614.1
+uniform_s1, 2234.4
+uniform_s2, 16744.7
+
+random_init: overall 19.6, per-seed ['19.6'], seed mean 19.6 +- 0.0
+uniform: overall 6531.1, per-seed ['614.1', '2234.4', '16744.7'], seed mean 6531.1 +- 7252.3
+adaptive: overall 2246.3, per-seed ['3170.1', '3222.1', '346.6'], seed mean 2246.3 +- 1343.4
+shaped: overall 10064.5, per-seed ['10007.5', '5457.4', '14728.6'], seed mean 10064.5 +- 3785.2
+
+Wilcoxon signed-rank over 30 pole lengths (seed-averaged means), two-sided:
+  random_init vs uniform: W=0.0, p=1.86e-09
+  random_init vs adaptive: W=0.0, p=1.86e-09
+  random_init vs shaped: W=0.0, p=1.86e-09
+  uniform vs adaptive: W=2.0, p=5.59e-09
+  uniform vs shaped: W=6.0, p=2.61e-08
+  adaptive vs shaped: W=0.0, p=1.86e-09
+
+Mann-Whitney U over all episodes (lengths x seeds x eps), two-sided:
+  random_init vs uniform: U=2, p=1.06e-148
+  random_init vs adaptive: U=44, p=1.31e-148
+  random_init vs shaped: U=0, p=1.05e-148
+  uniform vs adaptive: U=484426, p=5.86e-13
+  uniform vs shaped: U=203635, p=1.63e-74
+  adaptive vs shaped: U=102407, p=8.16e-166
+
+Mean score by pole-length band (short 0.40-0.86 / mid 0.88-1.33 / long 1.37-1.80):
+  random_init: 19 / 21 / 19
+  uniform: 2442 / 6618 / 10533
+  adaptive: 1359 / 3017 / 2363
+  shaped: 6459 / 10957 / 12777

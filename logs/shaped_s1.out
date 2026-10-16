@@ -1,0 +1,16 @@
+[shaped s1] step 5000 val_len 176 val_theta 0.0705 eps 0.80
+[shaped s1] step 10000 val_len 482 val_theta 0.0157 eps 0.59
+[shaped s1] step 15000 val_len 222 val_theta 0.0298 eps 0.39
+[shaped s1] step 20000 val_len 435 val_theta 0.0254 eps 0.18
+[shaped s1] step 25000 val_len 500 val_theta 0.0123 eps 0.02
+[shaped s1] step 30000 val_len 500 val_theta 0.0233 eps 0.02
+[shaped s1] step 35000 val_len 500 val_theta 0.0263 eps 0.02
+[shaped s1] step 40000 val_len 474 val_theta 0.0214 eps 0.02
+[shaped s1] step 45000 val_len 500 val_theta 0.0302 eps 0.02
+[shaped s1] step 50000 val_len 500 val_theta 0.0160 eps 0.02
+[shaped s1] step 55000 val_len 500 val_theta 0.0207 eps 0.02
+[shaped s1] step 60000 val_len 500 val_theta 0.0177 eps 0.02
+[shaped s1] step 65000 val_len 331 val_theta 0.0184 eps 0.02
+[shaped s1] step 70000 val_len 460 val_theta 0.0207 eps 0.02
+[shaped s1] step 75000 val_len 462 val_theta 0.0196 eps 0.02
+[shaped s1] step 80000 val_len 472 val_theta 0.0400 eps 0.02

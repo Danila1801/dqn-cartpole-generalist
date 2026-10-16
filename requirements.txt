@@ -1,0 +1,7 @@
+﻿torch
+gym==0.26.2
+numpy
+scipy
+matplotlib
+pandas
+openpyxl

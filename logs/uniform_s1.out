@@ -1,0 +1,16 @@
+[uniform s1] step 5000 val_len 178 val_theta 0.0679 eps 0.80
+[uniform s1] step 10000 val_len 195 val_theta 0.0728 eps 0.59
+[uniform s1] step 15000 val_len 178 val_theta 0.0996 eps 0.39
+[uniform s1] step 20000 val_len 94 val_theta 0.1492 eps 0.18
+[uniform s1] step 25000 val_len 112 val_theta 0.1291 eps 0.02
+[uniform s1] step 30000 val_len 105 val_theta 0.1033 eps 0.02
+[uniform s1] step 35000 val_len 146 val_theta 0.1052 eps 0.02
+[uniform s1] step 40000 val_len 461 val_theta 0.0716 eps 0.02
+[uniform s1] step 45000 val_len 273 val_theta 0.1019 eps 0.02
+[uniform s1] step 50000 val_len 85 val_theta 0.1290 eps 0.02
+[uniform s1] step 55000 val_len 83 val_theta 0.1475 eps 0.02
+[uniform s1] step 60000 val_len 102 val_theta 0.1273 eps 0.02
+[uniform s1] step 65000 val_len 199 val_theta 0.0849 eps 0.02
+[uniform s1] step 70000 val_len 88 val_theta 0.0965 eps 0.02
+[uniform s1] step 75000 val_len 370 val_theta 0.0978 eps 0.02
+[uniform s1] step 80000 val_len 318 val_theta 0.0702 eps 0.02
